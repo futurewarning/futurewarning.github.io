@@ -3,8 +3,6 @@ author: "futurewarning"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
-
 # Minima social links
 github_username: futurewarning
 telegram: futurewarning
@@ -19,7 +17,6 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/routes.md
   - _pages/archive.md
 
 include:
@@ -32,3 +29,5 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+repository: futurewarning/futurewarning.github.io
